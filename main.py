@@ -16,7 +16,7 @@ def main():
     '''
     # Ekran oluştur
     ekran = pygame.display.set_mode((GENISLIK, YUKSEKLIK))
-    pygame.display.set_caption("Candy Crush 🍬 by GonulPolat")
+    pygame.display.set_caption("Candy Crush 🍬 - by GonulPolat")
     
     # Saat objesi (FPS kontrolü için)
     saat = pygame.time.Clock()
