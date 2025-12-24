@@ -27,9 +27,9 @@ Python ve Pygame kullanılarak geliştirilmiş, modern ve eğlenceli bir eşleş
 ## 🎮 Ekran Görüntüleri
 
 
-![alt text](image.png)
+![Oyun](screenshots/game.png)
 
-![alt text](image-1.png)
+![Oyun Sonu](screenshots/game-end.png)
 
 ## 🚀 Kurulum
 
